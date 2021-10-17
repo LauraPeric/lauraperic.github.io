@@ -2,4 +2,4 @@
 
 ovdje ce se nalaziti html css mozda i java skript koji koristi moju osobnu stranicu
 
-Adrsa moje web stranice jest https://lauraperic.github.io.
+Adresa moje web stranice jest https://lauraperic.github.io.
